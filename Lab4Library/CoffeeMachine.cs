@@ -2,18 +2,18 @@
 {
     public class CoffeeMachine
     {
-        Dictionary<RecipeName,Recipe> _recipes = new Dictionary<RecipeName, Recipe>();
-        GrinderUnit _grinderUnit;
-        BrewingUnit _brewingUnit;
-        Container _waterContainer;
-        Container _milkContainer;
-        Container _beansContainer;
+        private Dictionary<RecipeName,Recipe> _recipes = new Dictionary<RecipeName, Recipe>();
+        private GrinderUnit _grinderUnit;
+        private BrewingUnit _brewingUnit;
+        private Container _waterContainer;
+        private Container _milkContainer;
+        private Container _beansContainer;
 
-        public CoffeeMachine(int capasity)
+        public CoffeeMachine(int capacity)
         {
-            _waterContainer = new Container(capasity);
-            _milkContainer = new Container(capasity);
-            _beansContainer = new Container(capasity);
+            _waterContainer = new Container(capacity);
+            _milkContainer = new Container(capacity);
+            _beansContainer = new Container(capacity);
             _recipes = new Dictionary<RecipeName, Recipe>();
             Recipe espressoRecipe = new Recipe(50, 0, 10);
             _recipes.Add(RecipeName.Espresso, espressoRecipe);

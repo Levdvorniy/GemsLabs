@@ -5,31 +5,33 @@
 /// </summary>
 public class Container
 {
-	int _capasity = 0;
+	int _capacity = 0;
 	int _value = 0;
-	public Container(int capasity)
+	public Container(int capacity)
 	{
-		if (capasity < 0) throw new ArgumentException("Объём контейнера не может быть отрицательным");
+		if (capacity < 0) 
+			throw new ArgumentException("Объём контейнера не может быть отрицательным");
 
-		_capasity = capasity;
+		_capacity = capacity;
 	}
 	public void LoadResource(int value)
     {
-		if (_value + value > _capasity || value < 0) throw new ArgumentException("Переполнение контейнера");
+		if (_value + value > _capacity || value < 0) 
+			throw new ArgumentException("Переполнение контейнера");
 
 		_value += value;
     }
 	public void GetResource(int value)
     {
-		if (_value - value < 0 || value < 0) throw new ArgumentException("Недостаточно ресурсов");
+		if (_value - value < 0 || value < 0) 
+			throw new ArgumentException("Недостаточно ресурсов");
 
 		_value -= value;
 
-		//return value;
     }
 	public int GetCapasity()
     {
-		return _capasity;
+		return _capacity;
     }
 	public int GetValue()
     {

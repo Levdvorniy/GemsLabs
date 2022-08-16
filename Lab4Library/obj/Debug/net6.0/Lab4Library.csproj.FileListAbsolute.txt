@@ -10,3 +10,15 @@ C:\Users\Лев\source\repos\Lab4\Lab4Library\obj\Debug\net6.0\Lab4Library.dll
 C:\Users\Лев\source\repos\Lab4\Lab4Library\obj\Debug\net6.0\refint\Lab4Library.dll
 C:\Users\Лев\source\repos\Lab4\Lab4Library\obj\Debug\net6.0\Lab4Library.pdb
 C:\Users\Лев\source\repos\Lab4\Lab4Library\obj\Debug\net6.0\ref\Lab4Library.dll
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\bin\Debug\net6.0\Lab4Library.deps.json
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\bin\Debug\net6.0\Lab4Library.dll
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\bin\Debug\net6.0\Lab4Library.pdb
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.csproj.AssemblyReference.cache
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.AssemblyInfoInputs.cache
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.AssemblyInfo.cs
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.dll
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\refint\Lab4Library.dll
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\Lab4Library.pdb
+C:\Users\MyPC\Source\Repos\GemsLabs\Lab4Library\obj\Debug\net6.0\ref\Lab4Library.dll
